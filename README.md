@@ -1,0 +1,1 @@
+I followed the video code along but for whatever reason, no matter what way I tried to push to the repo I created for the assignment, Git and Github will not accept the files. The screenshots in this repo show I did the assignment though
